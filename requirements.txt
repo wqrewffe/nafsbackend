@@ -1,0 +1,6 @@
+Flask==3.1.2
+Flask-Cors==6.0.1
+Pillow
+qrcode==7.4.2
+reportlab==4.2.0
+gunicorn
